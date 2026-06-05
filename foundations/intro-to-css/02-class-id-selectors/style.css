@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+  background-color: #ff9f9ed8;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#whale {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.medium {
+  font-size: 24px;
+}
+
+#fourth {
+  font-weight: 700;
+  background-color: rgb(131, 248, 113);
+}
